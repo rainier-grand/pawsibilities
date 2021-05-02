@@ -1,0 +1,17 @@
+.btn-purple {
+	background-color: #4f4498;
+	padding:15px 20px;
+	color:white;
+	padding: 15px 20px;
+	border-radius:6px;
+	font-weight:'Montserrat';
+	font-size:20px;
+	font-weight: 700;
+	opacity:0.9;
+}
+
+.btn-purple:hover {
+	background-color: #6c5ecf;
+	color:white;
+	opacity:1;
+}
